@@ -1,0 +1,59 @@
+/* General styles for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for main headings */
+h1 {
+    color: #0077cc;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
+
+/* Styles for paragraph text */
+p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+/* Button styles */
+button {
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+/* Styling for links */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Simple container styling */
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
