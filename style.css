@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
-    color: #333;
+    color: #339;
     margin: 0;
     padding: 0;
 }
@@ -41,7 +41,7 @@ button:hover {
 a {
     color: #0077cc;
     text-decoration: none;
-}
+}   
 
 a:hover {
     text-decoration: underline;
